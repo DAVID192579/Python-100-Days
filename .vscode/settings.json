@@ -4,6 +4,11 @@
   "python.analysis.typeCheckingMode": "basic",
   "python.analysis.indexing": false,
   "chat.disableAIFeatures": true,
+  "github.copilot.enable": {
+    "*": false,
+    "python": false
+  },
+  "github.copilot.nextEditSuggestions.enabled": false,
   "[python]": {
     "editor.quickSuggestions": {
       "other": "off",
